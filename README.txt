@@ -1,5 +1,5 @@
 # IDFC
 
-1)Install Figma.exe
-2)After Installing import TOT.fig file into it.
+1)Goto figma.com
+2)After Opening import TOT.fig file into it.
 3)run the Prototype
