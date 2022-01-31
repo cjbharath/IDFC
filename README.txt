@@ -6,6 +6,5 @@
 
 OR
 
-1)Goto figma.com
-2)Use the following link to open the Project https://www.figma.com/proto/kBOyivAoG0O4mG1HxyBg0D/TOT?node-id=0%3A1
-3)run the Prototype 
+1)Use the following link to open the Project https://www.figma.com/proto/kBOyivAoG0O4mG1HxyBg0D/TOT?node-id=0%3A1
+2)run the Prototype 
