@@ -1,0 +1,35 @@
+<!-- Search Screen -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/search_scre"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clipToOutline="true"
+android:background="@drawable/search_scre"
+ />
+
+
+<!-- drawable/search_scre.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="428dp"
+android:height="934dp"
+android:viewportWidth="428"
+android:viewportHeight="934"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H428V934H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V934H428V0"
+android:fillColor="#FFFFFF"
+/>
+
+</group>
+
+</vector>
